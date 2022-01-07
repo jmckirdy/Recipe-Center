@@ -1,0 +1,52 @@
+body {
+
+
+    background-color: #ffffff;
+
+
+    color: #000000;
+
+
+    font-family: "Times New Roman", serif;
+    /* font-family: "Georgia", serif; */
+
+
+    font-size: 12pt;
+
+
+}
+
+
+h2 {
+
+
+    font-family: "Lucida Handwriting", serif;
+    /* font-family: "Vardana", serif; */
+
+
+
+    font-size: 16pt;
+
+
+}
+
+
+h3 {
+
+
+    font-family: "Comic Sans MS", serif;
+    /* font-family: "Helvetica", serif; */
+
+
+    font-size: 14pt;
+
+
+}
+
+#header, #nav, #news, #footer {
+
+
+    display: none;
+
+
+}
